@@ -22,6 +22,8 @@ git clone ...... 	// this sets up a new repo from a remote repo
 
 $var = "hello";
 
+$var = (string)$var;
+
 echo $var;
 
 ?>
