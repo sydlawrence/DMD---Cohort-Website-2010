@@ -20,7 +20,7 @@ git clone ...... 	// this sets up a new repo from a remote repo
 
 <?php
 
-$var = "hello";
+$var = "world";
 
 $var = (string)$var;
 
