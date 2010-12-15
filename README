@@ -1,0 +1,16 @@
+This is just a test git repo
+
+the main git commads are:
+
+git 
+	init			// intiialise a new git repo
+	status			// return the current status
+	log				// view the latest log
+	add .			// add all files to git repo
+	commit -a -m ""	// commit the changes with a message in ""
+	
+// used for a remote repo
+	push			// push changes to remote repo
+	pull			// pull changes from remote repo
+	
+	
