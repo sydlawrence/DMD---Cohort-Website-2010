@@ -13,4 +13,6 @@ git
 	push			// push changes to remote repo
 	pull			// pull changes from remote repo
 	
-	
+
+
+git clone ...... 	// this sets up a new repo from a remote repo
