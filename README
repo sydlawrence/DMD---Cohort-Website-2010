@@ -18,4 +18,10 @@ git
 git clone ...... 	// this sets up a new repo from a remote repo
 
 
-hello
+<?php
+
+$var = "hello";
+
+echo $var;
+
+?>
